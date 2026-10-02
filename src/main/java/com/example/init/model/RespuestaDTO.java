@@ -11,4 +11,5 @@ public class RespuestaDTO {
     private String nombre;
     private String url;
     private String descripcion;
+    private String so;
 }
